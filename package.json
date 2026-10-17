@@ -1,0 +1,15 @@
+{
+  "name": "zerno-app",
+  "version": "0.1.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "setup": "expo install react react-native expo-status-bar expo-font react-native-safe-area-context react-native-svg @expo-google-fonts/unbounded @expo-google-fonts/golos-text"
+  },
+  "dependencies": {
+    "expo": "~56.0.0"
+  }
+}

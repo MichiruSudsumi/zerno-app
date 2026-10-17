@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Зерно",
+    "slug": "zerno",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "backgroundColor": "#F4F2EF",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "digital.mdf.zerno"
+    },
+    "android": {
+      "package": "digital.mdf.zerno"
+    }
+  }
+}
